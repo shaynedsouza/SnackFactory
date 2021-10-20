@@ -1,0 +1,13 @@
+{
+	"LionStudios.Suite.Core.LionCore": {
+		"_UseMultiDexSupport": true,
+		"_UseProGuard": true,
+		"_OverrideGradlePluginVersion": false,
+		"_GradlePluginOverride": ""
+	},
+	"LionStudios.Debugging.LionDebug": {
+		"debuggerEnabled": false,
+		"showDebuggerAtStartup": false,
+		"debugLogLevel": 4
+	}
+}
